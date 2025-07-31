@@ -1,0 +1,2 @@
+import{j as r,E as o}from"./ssr.mjs";import"./nitro.mjs";import"node:buffer";import"node:timers";import"node:events";import"node:process";import"cloudflare:workers";import"node:async_hooks";import"node:stream";import"node:stream/web";const SplitErrorComponent=function({error:e}){return r.jsx(o,{error:e})};export{SplitErrorComponent as errorComponent};
+//# sourceMappingURL=users._userId-CG2IqJzb.mjs.map

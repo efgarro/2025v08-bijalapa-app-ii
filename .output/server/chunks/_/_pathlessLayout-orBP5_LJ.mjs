@@ -1,0 +1,2 @@
+import{j as o,O as r}from"./ssr.mjs";import"./nitro.mjs";import"node:buffer";import"node:timers";import"node:events";import"node:process";import"cloudflare:workers";import"node:async_hooks";import"node:stream";import"node:stream/web";const SplitComponent=function(){return o.jsxs("div",{className:"p-2",children:[o.jsx("div",{className:"border-b",children:"I'm a layout"}),o.jsx("div",{children:o.jsx(r,{})})]})};export{SplitComponent as component};
+//# sourceMappingURL=_pathlessLayout-orBP5_LJ.mjs.map

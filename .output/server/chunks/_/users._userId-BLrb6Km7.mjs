@@ -1,0 +1,2 @@
+import{j as o,N as r}from"./ssr.mjs";import"./nitro.mjs";import"node:buffer";import"node:timers";import"node:events";import"node:process";import"cloudflare:workers";import"node:async_hooks";import"node:stream";import"node:stream/web";const SplitNotFoundComponent=()=>o.jsx(r,{children:"User not found"});export{SplitNotFoundComponent as notFoundComponent};
+//# sourceMappingURL=users._userId-BLrb6Km7.mjs.map

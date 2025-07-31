@@ -1,0 +1,2 @@
+import{j as e}from"./ssr.mjs";import"./nitro.mjs";import"node:buffer";import"node:timers";import"node:events";import"node:process";import"cloudflare:workers";import"node:async_hooks";import"node:stream";import"node:stream/web";const SplitComponent=function(){return e.jsxs("div",{children:["Select a user or"," ",e.jsx("a",{href:"/api/users",className:"text-blue-800 hover:text-blue-600 underline",children:"view as JSON"})]})};export{SplitComponent as component};
+//# sourceMappingURL=users.index-BoVPxpKb.mjs.map

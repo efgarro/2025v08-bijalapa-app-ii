@@ -1,0 +1,2 @@
+import{j as o,N as r}from"./ssr.mjs";import"./nitro.mjs";import"node:buffer";import"node:timers";import"node:events";import"node:process";import"cloudflare:workers";import"node:async_hooks";import"node:stream";import"node:stream/web";const SplitNotFoundComponent=()=>o.jsx(r,{children:"Post not found"});export{SplitNotFoundComponent as notFoundComponent};
+//# sourceMappingURL=posts._postId-COl3yRn7.mjs.map
